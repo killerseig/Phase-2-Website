@@ -45,10 +45,13 @@ Vue.component('foot',
 						<h3>Credited</h3>
 						<ul class="footer-list">
 							<li>
-								<a href="https://unsplash.com/@xdesro?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"> Some of our photos were taken by Henry Desro</a>
+								<a href="https://unsplash.com/@xdesro"> Some of our photos were taken by Henry Desro</a>
 							</li>
 							<li>
-								<a href="https://unsplash.com/@helloquence?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"> Some of our photos were taken by Helloquence</a>
+								<a href="https://unsplash.com/@camorin13"> Some of our photos were taken by Cam Morin</a>
+							</li>
+							<li>
+								<a href="https://unsplash.com/@helloquence"> Some of our photos were taken by Helloquence</a>
 							</li>
 							<li>
 								<a href="https://icons8.com/material-icons">Some icons used on this page are from Icons8</a>
@@ -59,29 +62,29 @@ Vue.component('foot',
 						<h3>Useful Links</h3>
 						<ul class="footer-list">
 							<li>
-								<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#"> Place Useful Link Here</a>
+								<a href="#"> Place Useful Link Here</a>
 							</li>
 							<li>
-								<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#"> Place Useful Link Here</a>
+								<a href="#"> Place Useful Link Here</a>
 							</li>
 							<li>
-								<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#"> Place Useful Link Here</a>
+								<a href="#"> Place Useful Link Here</a>
 							</li>
 						</ul>
 					</div>
 					<div class="col-xs-12 col-sm-6 col-md-3">
 						<h3>Tags</h3>
 						<div class="footer-tags">
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Business</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Light Gauge</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Steel Framing</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Drywall</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Gypsum Drywall</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Insulation</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Acoustics</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Wall Covering</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Painting</a>
-							<a href="file:///F:/Chris%20Larsen%20(C.J.)/Phase%202%20Website/Website%20Revamped/Home%2005.html#">Family Business</a>
+							<a href="#">Business</a>
+							<a href="#">Light Gauge</a>
+							<a href="#">Steel Framing</a>
+							<a href="#">Drywall</a>
+							<a href="#">Gypsum Drywall</a>
+							<a href="#">Insulation</a>
+							<a href="#">Acoustics</a>
+							<a href="#">Wall Covering</a>
+							<a href="#">Painting</a>
+							<a href="#">Family Business</a>
 						</div>
 					</div>
 				</div>

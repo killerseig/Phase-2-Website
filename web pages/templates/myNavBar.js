@@ -11,17 +11,23 @@ Vue.component('navigation',
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
-					<li class="nav-item active">
-						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					<li class="nav-item">
+						<a class="nav-link" href="Home.html">Home </a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="Apply Today.html">Apply Today </a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="Apply Today.html">Contact Us </a>
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Departments
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="#">Drywall</a>
-							<a class="dropdown-item" href="#">Acoustics</a>
-							<a class="dropdown-item" href="#">Paint</a>
+							<a class="dropdown-item" href="Drywall.html">Drywall</a>
+							<a class="dropdown-item" href="Acoustics.html">Acoustics</a>
+							<a class="dropdown-item" href="Paint.html">Paint</a>
 						</div>
 					</li>
 				</ul>

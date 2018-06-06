@@ -5975,37 +5975,4 @@ background:#4516ce-webkit-transition-duration:.3s;
 transition-duration:.3s
 }
 
-.owl-nav i
-{
-color:#111;
-font-size:20px;
-padding-top:10px
-}
 
-.owl-nav .owl-next,.owl-nav .owl-prev
-{
-color:#4516cefont-size:43px;
-text-align:center;
-width:50px;
-height:50px;
-background:#fff!important
-}
-
-.owl-nav .owl-prev
-{
-left:0;
--webkit-transition:all .4s ease 0s;
-transition:all .4s ease 0s;
--webkit-box-shadow:0 5px 28px 0 rgba(50,50,50,.1);
--moz-box-shadow:0 5px 28px 0 rgba(50,50,50,.1);
-box-shadow:0 5px 28px 0 rgba(50,50,50,.1)
-}
-
-.owl-nav .owl-next
-{
--webkit-transition:all .4s ease 0s;
-transition:all .4s ease 0s;
--webkit-box-shadow:0 5px 28px 0 rgba(50,50,50,.1);
--moz-box-shadow:0 5px 28px 0 rgba(50,50,50,.1);
-box-shadow:0 5px 28px 0 rgba(50,50,50,.1)
-}
