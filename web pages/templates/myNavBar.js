@@ -1,12 +1,3 @@
-
-Vue.component('asdf', 
-	{
-  template: 
-	`
-		<p>I AM A FOOT</p>
-	`
-	}),
-
 Vue.component('navigation', 
 	{
   template: 
@@ -41,4 +32,4 @@ Vue.component('navigation',
 	
 
 
-new Vue({ el: '#insert' })
+new Vue({ el: '#templateNav' })

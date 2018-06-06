@@ -16,7 +16,7 @@
 	<body id="main">
 	
 		<!-------------------------------------- START OF NAVBAR -------------------------------------->	
-		<div id="insert">
+		<div id="templateNav" v-html>
 			<navigation></navigation>
 		</div>
 		<!-------------------------------------- END OF NAVBAR -------------------------------------->
@@ -618,8 +618,8 @@
 		
 		<!-------------------------------------- START OF FOOTER -------------------------------------->	
 		
-		<div id="insert">
-			<asdf></asdf>
+		<div id="templateFoot" v-html>
+			<foot></foot>
 		</div>
 		
 		<!-------------------------------------- END OF FOOTER -------------------------------------->	
@@ -634,9 +634,13 @@
 
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 		
+			<!-------------------------------------- START OF TEMPLATES -------------------------------------->
 		
+			<script type="text/javascript" src="templates/myNavBar.js"></script>
+			<script type="text/javascript" src="templates/myFoot.js"></script>
+			
+			<!-------------------------------------- END OF TEMPLATES -------------------------------------->
 		
-        <script type="text/javascript" src="templates/template.js"></script>
 		
 		<script>
 			var swiper1 = new Swiper('.top-swiper-container', {
