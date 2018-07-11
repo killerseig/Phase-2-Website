@@ -14,6 +14,9 @@ Vue.component('navigation',
 					<li class="nav-item">
 						<a class="nav-link" href="Home.html">Home </a>
 					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="Contact.html">Contact Us </a>
+					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Departments
